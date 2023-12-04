@@ -1,0 +1,10 @@
+Improvements ideas:
+  ☐ Setup path aliases.
+  ☐ Setup Jest for unit testing.
+  ☐ Setup Cypress for E2E testing.
+  ☐ Install storybook for building UI components and pages in isolation.
+  ☐ Write stories, unit tests, and E2E tests.
+  ☐ Refactor the Chat component. I don't really like using messages state there.
+  ☐ Create a splash screen where the user can give their username.
+  ☐ Create a sidebar for different chat rooms.
+  ☐ Give opportunity for the users to create, read update, delete chat rooms.

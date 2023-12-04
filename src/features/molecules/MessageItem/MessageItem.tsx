@@ -6,11 +6,12 @@ import { Props } from './MessageItem.interface'
 /**
  * @name MessageItem
  * @category Component
- * @description
+ * @description Simple component responsible to render a single message element
+ * that contains the name of the sender, the date-time and the message.
  *
  * @param {string} props.sender - Name of the message sender.
  * @param {string} props.date - Sending date.
- * @param {string} props.message -
+ * @param {string} props.message - Message sent by the user.
  *
  * @returns {JSX.Element} JSX.Element
  */

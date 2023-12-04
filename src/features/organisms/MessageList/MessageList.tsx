@@ -8,7 +8,7 @@ import MessageItem from '../../molecules/MessageItem/MessageItem'
 /**
  * @name MessageList
  * @category Component
- * @description
+ * @description Wrapper of the list of messages.
  *
  * @return {JSX.Element} JSX.Element
  */

@@ -14,6 +14,15 @@ const defaultValues = {
 	message: '',
 }
 
+/**
+ * @name Chat
+ * @category Component
+ * @description Chat component which is responsible to render a form with a
+ * name input, message text area and a submit button. Submiting the form
+ * dispatches the send action and send data to the server via SocketIO.
+ *
+ * @returns {JSX.Element} JSX.Element
+ */
 const Chat: React.FC = (): JSX.Element => {
 	const {
 		handleSubmit,
